@@ -1,0 +1,18 @@
+1. Describe the Biology of your project? (one paragraph max).
+ Our model is regarding the SIR model which is an infectious disease model that uses 3 variables to understand if a disease will become an epidemic in a population. S stands for population that is susceptible, 
+I is for people who are infected and R is for people in the population that have recovered or are dead.
+
+2. Describe the kind of data that you think you will be handling (one paragraph max).
+We will be creating scripts in R using the Shiny package. This package will use the SIR model and make the 3 variables that the user can change in order to see how a disease will affect a population.
+
+3. What would you like to do with that data? (one paragraph max).
+I would like to learn shiny app in order to understand how to create graphical outputs with variables that users can change.
+
+4. What will be the output? (one paragraph max).
+Our project will have graphs and charts that a user can manipulate via the internet. They do not need to know any scripting to create new graphs.
+
+5. Is there any computational tool, package, etc. you would like to use? What would you do with that? For instance, you could mention shell scripts with sed or awk and will change the format of a table by replacing , with tabs. Also, you could mention tools that we haven’t seen in class yet but you herd that may be useful for your project. For instance, you could say I will use the package “GenomeGraphs” implement in the R software to visualize genome data. (a few sentences max).
+Shiny package in R that creates graphs and tables 
+
+6. What is your biggest concern regarding your project? (a few sentences max).
+How to incorporate the mathematical SIR model in shiny to create graphs. I think it will be challenging to learn how to maniputlate shiny to make it show what we want it to show. 
