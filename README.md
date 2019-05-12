@@ -17,7 +17,7 @@ For instance, you could say
 
 ## Grade Discussion 4 (week4): 15/20
 
-**Could NOT find your Project's repository**  
+**Could NOT find your README file**  
 
 | **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- | --- | --- |
