@@ -14,3 +14,14 @@ For instance, you could say
 ***I will use the package “GenomeGraphs” implement in the R software to visualize genome data***. (a few sentences max).  
 
 6. What is your biggest concern regarding your project? (a few sentences max).
+
+## Grade Discussion 4 (week4): 15/20
+
+**Could NOT find your Project's repository**  
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | | | | |
+| Challenges - Timely Submission | **X** | | | |
